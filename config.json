@@ -1,0 +1,7 @@
+{
+    "token":"token do bot",
+    "cargo_staff":"id de quem vai podê aprovar",
+    "cargo_aprovado":"quem vai ser aprovado",
+    "canal_formulario":"canal onde sera enviado formulario",
+    "imagem":"imagem do formulario"
+}
